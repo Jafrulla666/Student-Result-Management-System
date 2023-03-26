@@ -10,8 +10,8 @@
     <div class="box" >
     	<center><u><h1>Contact Us</h1></u></center>
          <ul style="font-size: 30px;">
-         	<li>location - gunupur</li>
-         	<li>At - Gobriguda</li>
+         	<li>location - chennai</li>
+         	<li>At - avadi</li>
          	<li>po - Kharling</li>
          	<li>Dist - Rayagada,Odisha-India</li>
             <li>Pin - 765022</li>
